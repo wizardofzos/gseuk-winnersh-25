@@ -1,6 +1,7 @@
 # Demo Material
 
-As presented at GSE UK Securoty Workgroup Meeting on Feb 27 2025
+As presented at GSE UK Security Workgroup Meeting on Feb 27 2025.
+More info about the event: https://www.gse.org.uk/events/gse-uk-security-working-group-next-meeting-thursday-27th-february-2025/
 
 ## How to use
 
